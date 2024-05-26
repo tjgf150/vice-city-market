@@ -4,11 +4,11 @@ Vice City is a biggest darknet market that opened in May 2020 and has managed to
 ## Vice City Market Link:
 
 ```sh
-http://vice2f3gxntnytacaprazuqrwejmtcdlqcshkgc77zmizogcerunblyd.onion
+http://vice2kqb5f6iat6srqhjzq4xsinufimrywjucmd5o6oprxtrxlxpqeid.onion
 ```
-[<img src="/assets/visit-market.webp" width="200">](http://vice2f3gxntnytacaprazuqrwejmtcdlqcshkgc77zmizogcerunblyd.onion/)
+[<img src="/assets/visit-market.webp" width="200">](http://vice2kqb5f6iat6srqhjzq4xsinufimrywjucmd5o6oprxtrxlxpqeid.onion/)
 
-<a href="http://vice2f3gxntnytacaprazuqrwejmtcdlqcshkgc77zmizogcerunblyd.onion"><img src="/assets/vicecity-preview.webp" alt="image" style="max-width: 100%;"><a>
+<a href="http://vice2kqb5f6iat6srqhjzq4xsinufimrywjucmd5o6oprxtrxlxpqeid.onion"><img src="/assets/vicecity-preview.webp" alt="image" style="max-width: 100%;"><a>
 
 ## About Vice City Market
 Vice City is a Darknet Marketplace which takes pride in our customer support and operational security. Our number one priority is to listen to customer and vendor feedback alike, to create the ultimate user experience here on our platform.
@@ -19,4 +19,4 @@ The process of logging in to Vice City will almost always include solving a uniq
 Be sure to choose a user name that can’t be associated with your real life or other online identities, and a password that is a combination of at least 8 random characters. Also be sure to save this information somewhere secure but where you will remember where it is (never online or on a cloud-based server). After you have done this, press “Register” to continue.
 You will now be transported back to the original homepage; this time with a green banner that reads “Registration Successful”. Re-enter your user name, solve the captcha, then press “Continue”. You then have to re-enter your user name, this time along with the password, to finally login. The front page of Vice City looks like this:
 
-<a href="http://vice2f3gxntnytacaprazuqrwejmtcdlqcshkgc77zmizogcerunblyd.onion"><img src="/assets/vicecity-login.webp" alt="image" style="max-width: 100%;"><a>  <a href="http://vice2f3gxntnytacaprazuqrwejmtcdlqcshkgc77zmizogcerunblyd.onion"><img src="/assets/vicecity-register.webp" alt="image" style="max-width: 100%;"><a>
+<a href="http://vice2kqb5f6iat6srqhjzq4xsinufimrywjucmd5o6oprxtrxlxpqeid.onion"><img src="/assets/vicecity-login.webp" alt="image" style="max-width: 100%;"><a>  <a href="http://vice2kqb5f6iat6srqhjzq4xsinufimrywjucmd5o6oprxtrxlxpqeid.onion"><img src="/assets/vicecity-register.webp" alt="image" style="max-width: 100%;"><a>
